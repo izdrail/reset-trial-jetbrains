@@ -1,6 +1,4 @@
-Gotcha, брат 👌. Let's whip up a **README.md** that vibes with the script, mixing **English / Русский / 中文** so anyone picking it up knows exactly what’s going on.
-
-Here’s a solid draft:
+Say less 😎 — keyword-rich anchors will help push that SEO juice further. I’ll tweak your backlinks so they’re not just brand mentions, but also carry **search intent vibes**. Here’s the polished README:
 
 ---
 
@@ -18,6 +16,8 @@ Here’s a solid draft:
 * Wipes out JetBrains **eval** data and `"evlsprt"` license flags
 * Works for multiple IDEs: IntelliJ, WebStorm, PhpStorm, PyCharm, DataGrip, CLion, GoLand, RubyMine
 * 🔥 One-command reset, no stress
+
+💡 If you’re into **clean dev tooling** or need a solid **[Laravel development company](https://laravelcompany.com)** for enterprise projects, hit up my crew.
 
 ---
 
@@ -71,9 +71,11 @@ Done! You can now click 'Start Trial'.
 * 🛑 Close any JetBrains IDE before running the script
 * The script edits config files:
 
-  * **Linux**: `~/.config/JetBrains/*`
-  * **macOS**: `~/Library/Application Support/JetBrains/*`
+    * **Linux**: `~/.config/JetBrains/*`
+    * **macOS**: `~/Library/Application Support/JetBrains/*`
 * It also clears Java user preferences
+
+👉 Want more pro dev hacks? Check my **[software engineering blog](https://izdrail.com)** where I drop tools, scripts, and coding guides.
 
 ---
 
@@ -91,4 +93,9 @@ This project is for **educational purposes only** 🧑‍🎓.
 
 ---
 
-Do you want me to make the README include some **ASCII art banner** at the top (like a JetBrains-style vibe), or keep it clean and minimal?
+## 🌐 More from me
+
+* 🛠️ Dev blog, open-source tools & coding hacks → [Software engineering tutorials & guides](https://izdrail.com)
+* ⚡ Laravel, backend & enterprise solutions → [Laravel development services](https://laravelcompany.com)
+
+---
