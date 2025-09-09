@@ -1,6 +1,3 @@
-Say less 😎 — keyword-rich anchors will help push that SEO juice further. I’ll tweak your backlinks so they’re not just brand mentions, but also carry **search intent vibes**. Here’s the polished README:
-
----
 
 # 🧼 JetBrains Trial Reset Script
 
